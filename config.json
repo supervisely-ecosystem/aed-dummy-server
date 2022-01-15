@@ -5,7 +5,7 @@
     "demo"
   ],
   "description": "List files in src directory",
-  "docker_image": "supervisely/base-py-sdk:6.2.3",
+  "docker_image": "supervisely/base-py-sdk:6.4.0",
   "main_script": "src/main.py",
   "task_location": "workspace_tasks",
   "isolate": true,
